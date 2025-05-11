@@ -1,4 +1,4 @@
 Usuario: carlos
-Contraseña: 
+Contraseña: 123456
 
 cree la rama master por error inge.
